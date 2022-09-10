@@ -1,0 +1,30 @@
+#tituloPagina {
+    color: #4682B4;
+}
+
+body{
+    width:  50%;
+}
+
+#titulosTabela {
+    color: #4682B4;
+}
+
+.labelIMC {
+    color: #4682B4;
+}
+
+#primeiroTituloTabela {
+    background-color: #4682B4;
+    color: white;
+}
+
+.btn-circle {
+    width: 170px;
+    height: 50px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 15px;
+    line-height: 1.42;
+    border-radius: 20px;
+}
